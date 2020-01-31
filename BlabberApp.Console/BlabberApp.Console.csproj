@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\BlabberApp.Datastore\BlabberApp.DataStore.csproj" />
+    <ProjectReference Include="..\BlabberApp.DataStore\BlabberApp.DataStore.csproj" />
     <ProjectReference Include="..\BlabberApp.Domain\BlabberApp.Domain.csproj" />
   </ItemGroup>
 
